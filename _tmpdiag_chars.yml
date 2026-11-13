@@ -1,0 +1,4 @@
+<!-- comment -->
+path: "_data/comments/{options.slug}"
+"package.json*"
+excerpt_separator: "\n\n"
