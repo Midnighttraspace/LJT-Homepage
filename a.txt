@@ -1,0 +1,6 @@
+name: &name "x"
+twitter:
+  username: &twitter
+filename: comment-{@timestamp}
+allowedFields: ['name', 'email', 'url', 'message']
+compress: ["<!-- ", " -->"]
